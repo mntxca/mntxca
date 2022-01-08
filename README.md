@@ -29,6 +29,8 @@ I'm a full-stack web developer and software engineer with low level C/C++ experi
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="30px" height="30px"></img>
+    <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="30px" height="30px"></img>
+    
 </td>
 </tr>
 </tbody>

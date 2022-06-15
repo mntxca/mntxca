@@ -21,6 +21,7 @@ I'm a full-stack web developer and software engineer with low level C/C++ experi
   <td>
 <!--     <img src="https://img.icons8.com/color/50/000000/mongodb.png" width="30px" height="30px"></img> -->
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px" height="30px"></img>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px" height="30px"></img>
 <!--     <img src="" width="30px" height="30px"></img> -->
 </td>
 <td>
